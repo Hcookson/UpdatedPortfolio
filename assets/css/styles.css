@@ -112,7 +112,7 @@ font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
 .mainImageContainer {
-    background-image: url("../images/jack-antal-796912-unsplash.jpg");
+    background-image: url("/UpdatedPortfolio/assets/images/jack-antal-796912-unsplash.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     /* background-size: 100% 100vh; */
@@ -120,7 +120,7 @@ font-family: 'Montserrat', sans-serif;
     height: auto;
     }
 .imageContainer {
-    background: url("../images/daniel-leone-795905-unsplash.jpg");
+    background: url("/UpdatedPortfolio/assets/images/daniel-leone-795905-unsplash.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     /* background-size: 100% 100vh; */
@@ -131,7 +131,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .imageContainerTwo {
-    background: url("../images/tian-kuan-789689-unsplash.jpg");
+    background: url("/UpdatedPortfolio/assets/images/tian-kuan-789689-unsplash.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     /* background-size: 100% 100vh; */
@@ -141,7 +141,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .imageContainerThree {
-    background: url("../images/zachary-shea-577599-unsplash.jpg");
+    background: url("/UpdatedPortfolio/assets/images/zachary-shea-577599-unsplash.jpg");
     background-repeat:no-repeat;
     background-size: cover;
     /* background-size: 100% 100vh; */
